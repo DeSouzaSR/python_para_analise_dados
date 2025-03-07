@@ -1,5 +1,6 @@
-# Python para An√°lise de Dados
+# Python para Análise de Dados
 
-Reposit√≥rio para armazenamento de c√≥digos do livro [Python para An√°lise de Dados](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479), de Wes McKinney, vers√£o em portugu√™s.
+Repositório para armazenamento de códigos do livro [Python para Análise de Dados](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479), de Wes McKinney, versão em português.
 
-Link para os c√≥digos originais, datasets e notebooks do livro (https://github.com/wesm/pydata-book/)
+Link para os códigos originais, datasets e notebooks do livro (https://github.com/wesm/pydata-book/)
+
