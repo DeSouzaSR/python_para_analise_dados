@@ -1,5 +1,4 @@
-# Arquivo para acompanhar a leitura do livro texto.
-acompanhamento.txt
+dados/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
